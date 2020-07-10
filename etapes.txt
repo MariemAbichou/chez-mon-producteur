@@ -6,4 +6,11 @@
 
 4- push les modif vers le server distant : git push -u origin master (ou git push)
 
+5- tracker un ou plusieurs fichiers :
+a/ git add nomDuFichier
+b/ git add *
+c/ git add .
+
+6- basculer les fichiers indexés dans la bdd du répertoire git : git commit -m "nom du commit"
+
 
