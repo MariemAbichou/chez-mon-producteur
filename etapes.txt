@@ -8,5 +8,8 @@
 
 5- création de la branche dev : git branch dev
 
-6- push de la branch vers le remote : git push origin dev
+6- changement de branche vers la branche dev : git checkout dev
 
+7- push de la branche dev vers le remote dev : git push origin dev
+
+8- récupérer depuis la branche dev : git pull origin dev
