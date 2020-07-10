@@ -1,5 +1,13 @@
 # Nom du projet: 'chez-mon-producteur'
 C'est un site de e-commerce  qui permet de mettre en relation des producteurs avec des consommateurs afin de favoriser les circuits courts (platforme d'intermédiation). 
+
+# Notre super équipe Scrum [userName gitHub]:
+      * Mariem ABICHOU [MariemAbichou] 
+      * Atep ZOCK [Bahamut0]  
+      * Marine GARAGUY [WonderPatate] 
+      * Lionel NGONKOURA [Leonaye10]  
+      * Nasreddine BOUDELAL[BOUDELAL] 
+
 # Objectif :
 Les clients inscrits se verront proposés une liste de producteurs en fonction de leur localisation. Le client pourra choisir quels produits il souhaite acheter et les ajouter dans leur panier. 
 Il aura le choix pour la livraison : soit aller chercher ses produits directement chez le producteur, soit bénéficié d’une livraison. Le paiement se fera soit en ligne, soit en espèces directement chez le producteur (s’il accepte ce moyen de paiement). 
