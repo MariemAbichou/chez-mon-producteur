@@ -1,0 +1,3 @@
+# commentaire
+*.[oa] -> ignore les fichiers terminant par .o ou .a
+/*.pdf
