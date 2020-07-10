@@ -1,0 +1,9 @@
+1- cloner le dossier du server distant : git clone https://github.com/MariemAbichou/chez-mon-producteur.git
+
+2- récupérer les changements du dossier du server distant : git pull https://github.com/MariemAbichou/chez-mon-producteur.git
+
+3- vérifier le raccordement au server distant : git remote -v
+
+4- push les modif vers le server distant : git push -u origin master (ou git push)
+
+
