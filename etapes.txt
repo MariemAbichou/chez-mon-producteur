@@ -6,4 +6,7 @@
 
 4- push les modif vers le server distant : git push -u origin master (ou git push)
 
+5- création de la branche dev : git branch dev
+
+6- push de la branch vers le remote : git push origin dev
 
