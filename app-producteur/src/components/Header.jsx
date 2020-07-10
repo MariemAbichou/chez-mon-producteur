@@ -11,7 +11,8 @@ class Header extends Component {
         console.log("render appelé")
         return (
             <div>
-                    
+                <img class="banniere"  src="https://www.norma.fr/sites/prod/files/styles/arrivage_grand/public/arrivage/FL%20G_24.jpg?itok=pb-9pl0I"/>
+       
                 <nav className="navbar navbar-expand-lg navbar-light bg-light">
                     
                     <h1 className="navbar-brand">Menu</h1>
